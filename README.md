@@ -1,3 +1,3 @@
 # CodigosPaises
 
-Files with helpers for International Counry Codes
+Files with helpers for International Country Codes
